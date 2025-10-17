@@ -1,6 +1,7 @@
 <template>
   <h1 class="text-3xl font-bold underline text-red-600 ">
-    teste tailwindcss
+    ✨ Vamos trabalhar, Aladim! ✨  
+
   </h1>
 </template>
 
